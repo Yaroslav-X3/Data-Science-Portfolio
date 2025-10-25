@@ -4,6 +4,6 @@
 
 **Problem**: write code for linear and branching algorithms
 
-**Approach**: 'if' condition was used
+**Approach**: 'if' operator was used
 
 **Result**: linear and branching algorithms for mathematical operations were made
